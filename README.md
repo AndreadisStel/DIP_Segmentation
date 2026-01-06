@@ -1,3 +1,5 @@
+## Image Segmentation
+
 Implementation of classical image segmentation techniques including
 spectral clustering and normalized cuts.
 
